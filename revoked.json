@@ -1,6 +1,8 @@
 {
   "version": 1,
-  "revoked_machines": [],
+  "revoked_machines": [
+    "X67A-YQY3-LCAF-TT55-FKCD"
+  ],
   "revoked_hashes": [],
   "disabled": false,
   "message": "当前机器授权已被取消，请联系 QQ：2337767459，微信：z2337767459"
