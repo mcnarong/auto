@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "machines": []
+  "machines": [
+    {
+      "machine_code": "X67A-YQY3-LCAF-TT55-FKCD",
+      "label": "本机",
+      "note": "本机",
+      "issued_count": 1,
+      "first_issued_at": "2026-05-08T17:52:28+00:00",
+      "last_issued_at": "2026-05-08T17:52:28+00:00",
+      "last_code_hash": "0c246a28fad9ebe4"
+    }
+  ]
 }
