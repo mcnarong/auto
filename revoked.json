@@ -1,6 +1,8 @@
 {
   "version": 1,
-  "revoked_machines": [],
+  "revoked_machines": [
+    "NVU4-3QYE-SGR9-LTBL-5L9Q"
+  ],
   "revoked_hashes": [],
   "disabled": false,
   "message": "当前机器授权已被取消，请联系 QQ：2337767459，微信：z2337767459"
