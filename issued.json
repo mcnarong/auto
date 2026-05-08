@@ -9,6 +9,15 @@
       "first_issued_at": "2026-05-08T17:52:28+00:00",
       "last_issued_at": "2026-05-08T17:52:28+00:00",
       "last_code_hash": "0c246a28fad9ebe4"
+    },
+    {
+      "machine_code": "NVU4-3QYE-SGR9-LTBL-5L9Q",
+      "label": "田",
+      "note": "田",
+      "issued_count": 1,
+      "first_issued_at": "2026-05-08T18:14:41+00:00",
+      "last_issued_at": "2026-05-08T18:14:41+00:00",
+      "last_code_hash": "4ea1863cf20d6503"
     }
   ]
 }
